@@ -6,4 +6,4 @@ This repository will hold all of my SQL, Excel &amp; Python projects. This is a 
 
 Excel and SQL were the tools used to clean, query and analyze this data set.
 
-!(D:\Pizza.Sales PProject\PizzaSales_Dashboard2_Cropped.jpg "Pizza Sales Dashboard")
+!("D:\Pizza.Sales PProject\PizzaSales_Dashboard2_Cropped.jpg" "Pizza Sales Dashboard")
