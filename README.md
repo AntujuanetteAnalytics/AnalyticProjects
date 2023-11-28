@@ -7,7 +7,7 @@ This repository will hold all of my SQL, Excel &amp; Python projects. This is a 
 Excel and SQL were the tools used to clean, query and analyze this data set.
 
 # [Data Wrangling- Mental Heath in Tech Survey](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Mental%20Health%20Tech%20Survey_Data%20Wrangling-SQL.pdf)
-I did a deep data wrangling in SQL. I utilized multiple funcitons (UPDATE, CREATE TABLE, #TEMPTABLES, ETC.) TO NORMALIZE COLUMNS, FILTER NULLS, ETC. There is an index column tht I initialy wanted to re-sequence, I found that if I did I would lose some of the integrity. If I ever wanted to cross refrence a row against the original data set, the index would be important. Also, I ran a duplicate check and nn returned.
+I did a deep data wrangling in SQL. I utilized multiple funcitons (UPDATE, CREATE TABLE, #TEMPTABLES, ETC.) TO NORMALIZE COLUMNS, FILTER NULLS, ETC. There is an index column that I initially wanted to re-sequence, I found that if I did, I would lose some of the integrity. If I ever wanted to cross reference a row against the original data set, the index would be important. Also, I ran a duplicate check and 0 returned.
 
 CREDIT FOR DATASET:
 https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/data
