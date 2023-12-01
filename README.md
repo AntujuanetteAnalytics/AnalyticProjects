@@ -25,5 +25,5 @@ I did a deep data wrangling in SQL. Below explains my thinking and process.
 A few data-driven suggestions I would make is to open the Pizza Shop later as the data shows nine pizzas sold between 9 AM and 11 AM for the entire calendar. I would also consider selling the Brie Carre seasonally or removing it altogether.
 
 CREDIT FOR DATASET:
-https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/data
+https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/data<br /> 
 https://data.world/quanticdata
