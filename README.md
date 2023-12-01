@@ -2,7 +2,7 @@
 This repository will hold all of my SQL, Excel &amp; Python projects. This is a temporary vessel to house all of my completed, current and future projects.
 
 # [Pizza Sales](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Pizza_Sales_Sql_Data_Final%20Project.xlsx)
-Prior to doing deep analysis, I imported the CSV file into SQL creating a sound cross refrence for KPIs that I would later utilize in Excel. [Click here](https://github.com/AntujuanetteAnalytics/AnalyticProjects/commit/482e69d146c1a1098964aa293af66acd63f0bfff) to view the SQL queries 
+Prior to doing deep analysis, I imported the CSV file into SQL creating a sound cross refrence for KPIs that I would later utilize in Excel. [Click here](https://github.com/AntujuanetteAnalytics/AnalyticProjects/commit/482e69d146c1a1098964aa293af66acd63f0bfff) to view the SQL queries. 
 
 The insights extracted from this data set give valuable information on general business KPIs that stakeholders can utilize to track the general growth of the company over the last year. Filtering the visuals by quarter, month(s), week(s), or day(s) provides an in-depth understanding of the trends that are direct contributions to the business's success. Trends that I found intriguing were:
 
