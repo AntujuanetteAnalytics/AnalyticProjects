@@ -12,7 +12,8 @@ The insights extracted from this data set give valuable information on general b
 
 After analyzing, a few data driven suggestions I would make is to open the Pizza Shop later as the data shows nine pizzas sold between 9 AM and 11 AM for the entire calendar. I would also consider selling the Brie Carre seasonally or removing it altogether.<br /> 
 
-CREDIT: https://www.youtube.com/watch?v=qmpsNMcumts&t=6961s
+CREDIT:<br /> 
+https://www.youtube.com/watch?v=qmpsNMcumts&t=6961s
 
 # [Data Wrangling- Mental Heath in Tech Survey](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Mental%20Health%20Tech%20Survey_Data%20Wrangling-SQL.pdf)
 I did a deep data wrangling in SQL. Below explains my thinking and process.
@@ -24,6 +25,6 @@ I did a deep data wrangling in SQL. Below explains my thinking and process.
 
 A few data-driven suggestions I would make is to open the Pizza Shop later as the data shows nine pizzas sold between 9 AM and 11 AM for the entire calendar. I would also consider selling the Brie Carre seasonally or removing it altogether.
 
-CREDIT FOR DATASET:<br />  
+CREDIT FOR DATASET:<br /> 
 https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/data<br /> 
 https://data.world/quanticdata
