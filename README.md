@@ -6,7 +6,8 @@ Prior to doing deep analysis, I imported the CSV file into SQL creating a sound 
 
 The insights extracted from this data set give valuable information on general business KPIs that stakeholders can utilize to track general growth of the company over the last year. Filtering the visuals by quarter, month(s), week(s) or day(s) provides indepth understanding of the trends that are direct contributions to the buisness's success. Trends that I found intriguing were:
 
---Orders peaked on Thursdays/Friday around 12PM-1PM with a following influx at 5PM-6PM. --Classic paves way slightly ahead of the opposing Categories, making up roughly 26% of sales while Large dominates as most demanding, contributing to a rounded 46% of sales per Size. --Classic Deluxe pizza sets the bar with 2432 sells while the contrasting Brie Carre is hardly relavent with 490 sells
+--Orders peaked on Thursdays/Friday around 12PM-1PM with a following influx at 5PM-6PM.<br />
+--Classic paves way slightly ahead of the opposing Categories, making up roughly 26% of sales while Large dominates as most demanding, contributing to a rounded 46% of sales per Size. --Classic Deluxe pizza sets the bar with 2432 sells while the contrasting Brie Carre is hardly relavent with 490 sells
 
 With all the data having been analyzed, a few actionable suggetions I would make is to open the Pizza Shop later as the data shows only 9 pizzas. I would also think about selling the Brie Carre seasonaly or perhapes removing it all together as the cost of goods would decrease if we didn't have to budget for it.
 
