@@ -19,8 +19,7 @@ I did a deep data wrangling in SQL. Below explains my thinking and process.
 
 --WHERE IS NOT NULL-There were quite a few NULL values in the dataset. After contemplating the impact of excluding these samples, filtering out the missing data appeared to be the most sound option. To accomplish this, I used WHERE IS NOT NULL excluding columns: Comment as this is optional and State due to the respondents being international.<br />  
 --UPDATE- This statement was used for the majority of the cleaning. E.G. Much of the gender column was free form and had multiple answers. For accuracy, I used the UPDATE statement to group similar values. I employed deductive reasoning to sort misspelled or incomplete data.<br />  
---SELECT INTO/CREATE TABLE- After filtering the NULLS, I was left with a brand new table. To materialize the filtered results, I would have to execute the statement in every new session.  I originally used SELECT INTO to create a #TEMPTABLE but found that redundant. Using SELECT INTO again, I created a permanent table in the database.<br /> 
-
+--SELECT INTO/CREATE TABLE- After filtering the NULLS, I was left with a brand new table. To materialize the filtered results, I would have to execute the statement in every new session.  I originally used SELECT INTO to create a #TEMPTABLE but found that redundant. Using SELECT INTO again, I created a permanent table in the database.<br />  
 --EXEC SP_RENAME: The column names were vague and lacked uniformity. To make the column names realational to the column values, I used the stored procedure, EXEC SP_RENAME, to clean them up.<br /> 
 
 A few data-driven suggestions I would make is to open the Pizza Shop later as the data shows nine pizzas sold between 9 AM and 11 AM for the entire calendar. I would also consider selling the Brie Carre seasonally or removing it altogether.
