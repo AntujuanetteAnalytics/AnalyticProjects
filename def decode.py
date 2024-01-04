@@ -5,7 +5,7 @@
 
 
 import pandas as pd
-df = pd.read_csv('coding_qual_input.txt', header=None)
+df = pd.read_csv(message_file, header=None)
 
 
 # In[2]:
