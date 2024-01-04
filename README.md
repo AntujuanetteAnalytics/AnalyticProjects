@@ -33,3 +33,47 @@ A few data-driven suggestions I would make are to open the Pizza Shop later as t
 CREDIT FOR DATASET:<br /> 
 https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/data<br /> 
 https://data.world/quanticdata
+
+[Def decode(message_file)](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Def%20decode%20message)
+# Import panda library
+import pandas as pd
+
+# Open file 
+df = pd.read_csv('message_file', header=None)
+
+# Call keyword for creating a function and name the function
+def decode(message_file):
+
+# Split values at whitespace and create a second column 
+split_text=df[0].str.split(' ', expand=True)
+
+# Convert column 0 to numeric data type
+split_text[0] = pd.to_numeric(split_text[0])
+
+# Sort column(0) in consecutive ascending order 
+sorted_text=split_text.sort_values(0,ascending=True)
+
+# Convert columns to lists and create variables
+Numbers=sorted_text[0].tolist()
+Messages=sorted_text[1].tolist()
+invalid = 'invalid_range'
+words_decoded= []
+index = 0
+
+# Create a staircase of words and removes empty lists
+for i in range(1, len(Messages)):
+   row = Messages[index:index+i]
+       if row:
+            index += i
+
+#Create a list of words extracted from the staircase
+            words_decoded.append(rows[-1])
+
+# Join words into a string
+solved=' '.join(words_decoded)
+
+# Return statements
+    if i > index:
+        return invalid
+    else:
+        return solved
