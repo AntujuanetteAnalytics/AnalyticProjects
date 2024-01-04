@@ -35,7 +35,7 @@ https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/data<br />
 https://data.world/quanticdata
 
 # [Def decode(message_file)](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/def%20decode.pyhttps://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Def%20decode%20message)
-I was given the task to pretend to be an AI language model and provide a response to the user prompt below. Below is a brief summary of the logic behind the function algorithm. Click here to view the code with
+I was given the task to pretend to be an AI language model and provide a response to the user prompt below. Below is a brief summary of the logic behind the function algorithm.
 
 The function is called decode and requires an argument (message_file). Replace the example argument with the variable that holds the file path. 
 
