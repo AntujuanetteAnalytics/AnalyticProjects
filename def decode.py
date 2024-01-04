@@ -30,10 +30,3 @@ def decode(message):
         return invalid
     else:
         return solved
-
-
-# In[3]:
-
-
-decode(df)
-
