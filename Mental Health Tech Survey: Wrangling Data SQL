@@ -8,7 +8,7 @@ SELECT DISTINCT column FROM survey
 --FILTERING OUT NULLS --
     Note-Left out columns:
         'comment' due to optional  
-        'state' due to relativity of other column values 
+        'state' due to codependency of other column values 
 
 SELECT * FROM survey
 WHERE 
