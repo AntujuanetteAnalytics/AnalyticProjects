@@ -1,7 +1,7 @@
 # AnalyticProjects
 This repository will hold all of my SQL, Excel &amp; Python projects. This is a temporary vessel to house all of my completed, current, and future projects.
 
-# [Pizza Sales](https://github.com/AntujuanetteAnalytics/AnalyticProjects/commit/482e69d146c1a1098964aa293af66acd63f0bfff) 
+# [Pizza Sales (SQL & Excel Dashboard)](https://github.com/AntujuanetteAnalytics/AnalyticProjects/commit/482e69d146c1a1098964aa293af66acd63f0bfff) 
 I imported the CSV file into SQL, creating a sound cross reference for KPIs that I utilized in Excel.
 
 The insights extracted from this data set give valuable information on general business KPIs that stakeholders can utilize to track the general growth of the company over the last year. Filtering the visuals by quarter, month(s), week(s), or day(s) provides an in-depth understanding of the trends that are direct contributions to the business's success. Trends that I found intriguing were:
@@ -15,7 +15,7 @@ After analyzing, a few data-driven suggestions I would make is to open the Pizza
 CREDIT:<br /> 
 https://www.youtube.com/watch?v=qmpsNMcumts&t=6961s
 
-# [Data Wrangling- Mental Heath in Tech Survey](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Mental_Health_Tech_Survey.sql)
+# [Mental Health in Tech Survey(SQL)](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Mental_Health_Tech_Survey.sql)
 
 I did a deep data wrangling in SQL. to view SQL code. Below explains my thinking and process.<br />  
 
@@ -31,12 +31,12 @@ CREDIT FOR DATASET:<br />
 https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/data<br /> 
 https://data.world/quanticdata
 
-# [Decode_Function(message_file)](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/def%20decode.pyhttps://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Def%20decode%20message)
+# [Decoder(Python)](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/def%20decode.pyhttps://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Def%20decode%20message)
 I was tasked with pretending to be an AI language model and responding to the user prompt below. Below is a brief summary of the logic behind the function algorithm.
 
 The function is called decode and requires an argument (message_file). Replace the example argument with the variable that holds the file path. 
 
 The column is split, and a second column is created for the separate value. The value in column 0 is considered a string data type and needs to be converted to numeric to be sorted in consecutive, ascending order. Once done, convert columns to lists.  Variable 'i' holds the number of times it iterates through the length of Messages, starting at 1. Index provides the starting point, then creates the endpoint of the slice by combining with 'i', generating columns and rows. The 'if' statement removes empty lists, and the index value is increased by 'i' before being looped back through. A list of the extracted words is created and joined into a string. If the number of iterations doesn't equal the number of words in messages, invalid_range is returned.
 
-# [Standard_Deviation_Function](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Standard_Deviation_Function.py)
+# [Standard Deviation Function(Python)](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Standard_Deviation_Function.py)
 I wanted to create a function that returns the standard deviation quickly, regardless of the number of values. This is a simple yet effective project. I utilized Matpltlib and NumPy libraries. 
