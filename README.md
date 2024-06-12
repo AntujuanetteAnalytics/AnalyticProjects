@@ -2,7 +2,7 @@
 This repository will hold all of my SQL, Excel &amp; Python projects. This is a temporary vessel to house all of my completed, current, and future projects.
 
 # [Pizza Sales (SQL & Excel Dashboard)](https://github.com/AntujuanetteAnalytics/AnalyticProjects/commit/482e69d146c1a1098964aa293af66acd63f0bfff) 
-I imported the CSV file into SQL, creating a sound cross reference for KPIs that I utilized in Excel.
+I imported the CSV file into SQL, creating a sound cross reference for KPIs that I utilized in Excel. [Click Here](https://drive.google.com/drive/folders/1pHr6zvM9x-gVXIu3cduS7Cs8-DWEN-dg?usp=sharing) to view the dashboard created in Excel
 
 The insights extracted from this data set give valuable information on general business KPIs that stakeholders can utilize to track the general growth of the company over the last year. Filtering the visuals by quarter, month(s), week(s), or day(s) provides an in-depth understanding of the trends that are direct contributions to the business's success. Trends that I found intriguing were:
 
