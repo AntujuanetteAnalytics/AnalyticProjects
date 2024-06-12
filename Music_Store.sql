@@ -1,4 +1,4 @@
-# **Above Average Customers - Orders**
+**Above Average Customers - Orders**
 WITH OverallAverage AS
   (SELECT ROUND(AVG(total), 2) AS OverallOrderAvg
    FROM Invoice),
@@ -19,7 +19,7 @@ FROM OverallAverage o,
 WHERE CustOrderAvg>OverallOrderAvg
 ORDER BY c.CustOrderAvg DESC
 
-# **Above Average Customers - Spent Per Unit** 
+**Above Average Customers - Spent Per Unit** 
 WITH OverallAverage AS
   (SELECT ROUND(AVG(UnitPrice), 2) AS OverallUnitAvg
    FROM InvoiceLine),
@@ -45,7 +45,7 @@ FROM OverallAverage o,
 WHERE CustUnitAvg>OverallUnitAvg
 ORDER BY c.CustUnitAvg DESC
 
-# **Above Average Customers - Genre Distribution**
+**Above Average Customers - Genre Distribution**
 WITH OverallAverage AS
   (SELECT ROUND(AVG(UnitPrice), 2) AS OverallAvg
    FROM InvoiceLine),
@@ -73,7 +73,7 @@ WHERE CustAvg>OverallAvg
 GROUP BY c.Name
 ORDER BY c.custavg DESC
 
-# **Above Average Customers - Sales Contribution per Country**
+**Above Average Customers - Sales Contribution per Country**
 WITH OverallAverage AS
   (SELECT ROUND(AVG(total), 2) AS OverallAvg
    FROM Invoice),
