@@ -41,5 +41,5 @@ The column is split, and a second column is created for the separate value. The 
 # [Standard Deviation Function(Python)](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Standard_Deviation_Function.py)
 I wanted to create a function that returns the standard deviation quickly, regardless of the number of values. This is a simple yet effective project. I utilized Matpltlib and NumPy libraries. 
 
-#[Music Store(SQL)](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Music_Store.sql)
-These queries are centered around understanding the purchase trends amongst the above average customers. [Click Here](https://drive.google.com/drive/folders/1HEFMucVaT5ol5SuUZ2wTafwFztsWYa_-?usp=sharing0 to view the powerpoint explaining my insights.
+# [Music Store(SQL)](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Music_Store.sql)
+These queries are centered around understanding the purchase trends amongst the above average customers. [Click Here](https://drive.google.com/drive/folders/1HEFMucVaT5ol5SuUZ2wTafwFztsWYa_-?usp=sharing) to view the powerpoint explaining my insights.
