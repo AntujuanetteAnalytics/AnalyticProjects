@@ -38,5 +38,5 @@ The function is called decode and requires an argument (message_file). Replace t
 
 The column is split, and a second column is created for the separate value. The value in column 0 is considered a string data type and needs to be converted to numeric to be sorted in consecutive, ascending order. Once done, convert columns to lists.  Variable 'i' holds the number of times it iterates through the length of Messages, starting at 1. Index provides the starting point, then creates the endpoint of the slice by combining with 'i', generating columns and rows. The 'if' statement removes empty lists, and the index value is increased by 'i' before being looped back through. A list of the extracted words is created and joined into a string. If the number of iterations doesn't equal the number of words in messages, invalid_range is returned.
 
-# [Standard Deviation](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Standard_Deviation_Function.py)
+# [Standard_Deviation_Function](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Standard_Deviation_Function.py)
 I wanted to create a function that returns the standard deviation quickly, regardless of the number of values. This is a simple yet effective project. I utilized Matpltlib and NumPy libraries. 
