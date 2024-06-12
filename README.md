@@ -1,9 +1,8 @@
 # AnalyticProjects
 This repository will hold all of my SQL, Excel &amp; Python projects. This is a temporary vessel to house all of my completed, current, and future projects.
 
-# [Pizza Sales](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Pizza_Sales_Sql_Data_Final%20Project.xlsx)
-I imported the CSV file into SQL, creating a sound cross reference for KPIs that I utilized in Excel. 
-[Click here](https://github.com/AntujuanetteAnalytics/AnalyticProjects/commit/482e69d146c1a1098964aa293af66acd63f0bfff) to view the SQL queries. 
+# [Pizza Sales](https://github.com/AntujuanetteAnalytics/AnalyticProjects/commit/482e69d146c1a1098964aa293af66acd63f0bfff) 
+I imported the CSV file into SQL, creating a sound cross reference for KPIs that I utilized in Excel.
 
 The insights extracted from this data set give valuable information on general business KPIs that stakeholders can utilize to track the general growth of the company over the last year. Filtering the visuals by quarter, month(s), week(s), or day(s) provides an in-depth understanding of the trends that are direct contributions to the business's success. Trends that I found intriguing were:
 
@@ -16,9 +15,9 @@ After analyzing, a few data-driven suggestions I would make is to open the Pizza
 CREDIT:<br /> 
 https://www.youtube.com/watch?v=qmpsNMcumts&t=6961s
 
-# [Data Wrangling- Mental Heath in Tech Survey](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Mental%20Health%20Tech%20Survey_Data%20Wrangling-SQL.pdf)
+# [Data Wrangling- Mental Heath in Tech Survey](https://github.com/AntujuanetteAnalytics/AnalyticProjects/blob/main/Mental_Health_Tech_Survey.sql)
 
-I did a deep data wrangling in SQL. Below explains my thinking and process.<br />  
+I did a deep data wrangling in SQL. to view SQL code. Below explains my thinking and process.<br />  
 
 --WHERE IS NOT NULL-There were quite a few NULL values in the dataset. After contemplating the impact of excluding these samples, filtering out the missing data appeared to be the soundest option. To accomplish this, I used WHERE IS NOT NULL excluding columns: Comment as this is optional and State due to the respondents being international.<br />  
 
